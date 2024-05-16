@@ -1,3 +1,4 @@
 # django_project
 my first django repository
-author :- Ambareesh dodamani vijaypur madanahalli
+author :- Ambareesh dodamani vijaypur madanahalli 
+python developer
